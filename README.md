@@ -1,2 +1,2 @@
-# hacktoberfest-2023
+# hacktoberfest-23
 # hacktoberfest
